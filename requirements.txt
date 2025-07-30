@@ -1,9 +1,11 @@
 streamlit
-pandas
-numpy
+pandas==2.3.1
+numpy==2.3.1
 scikit-learn
 joblib
 plotly
 xlsxwriter
 reportlab
 matplotlib
+pickle
+pip==25.1.1
