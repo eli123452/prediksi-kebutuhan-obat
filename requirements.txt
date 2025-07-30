@@ -7,5 +7,4 @@ plotly
 xlsxwriter
 reportlab
 matplotlib
-pickle
 pip==25.1.1
